@@ -1,4 +1,4 @@
-# Everything moved to https://github.com/deposist/s-ui-x
+# 🚀 Everything moved to https://github.com/deposist/s-ui-x 🚀
 
 ## S-UI
 
